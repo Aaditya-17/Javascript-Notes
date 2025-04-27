@@ -1,5 +1,3 @@
----
-
 # 1. 📦 **CommonJS** (Default Node.js system)
 
 ## a) Default Export in CommonJS
